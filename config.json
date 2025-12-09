@@ -1,0 +1,7 @@
+{
+  "owner_id": 123456789,
+  "allowed_group": -100123456789,
+  "word_limit": 20,
+  "bad_words": ["fuck", "shit"],
+  "allowed_links": ["https://t.me/yourgroup"]
+}
